@@ -1,0 +1,15 @@
+
+
+**Bitcoin stock-to-flow model** is a statistical model that proposes that the price of Bitcoin moves in tandem with it stock-to-flow ratio.  Stock-to-flow ratio is obtained by dividing the number of units of metal relatively accessible on the planet right now (stock) by the number of new units that are being mined that year (flow), as used in metal mining industry. Therefore, Bitcoin stock-to-flow is the amount of bitcoin being held by people(stock) divided by its annual emission rate(flow). The emission rate of Bitcoin can be determined by the result of the last Bitcoin halvening. Halvening is the cutting into half the number of Bitcoin entering the circulation every 10 minutes (this is known as block reward). The last halvening in May 2020, resulted into a block reward of 6.25 from 12.5. 
+
+## Bitcoin stock-to-flow model is a bad model for the following reasons:
+
+1. **STF defies physics:** Whatever goes up, comes down. And if doesn't, there is going to be some crises globally, for instance, in the year 2050, one Bitcoin is suppose to be worth one trillion dollars according to the model, now assuming between now and 2050 the global economy grows ten times, which means the global GDP will be 1420 trillion international dollars, then, Bitcoin market capitalization is still going to be 1000 times greater than the entire economy. 
+
+2. **It underestimates the power of the government:** It underestimates the authority of power of regulators, banker, policy makers, the governnment as a whole, gold fans who may not be happy that Bitcoin is disrupting their industry, as a result, will find a way to slow down Bitcoin raising path. For instance, If Bitcoin is ban in all countries of the world, then less adverturous people will shy away from buying it, resulting in slow adoption rate. While they will not stop it, because they can not stop the internet, but they will put parole blocks in place to slow it down.
+
+3. **Assumes exponential demand:** The STF model only considered stock which can be defined as the supply while assuming a progressive demand, economically, this is not so, because to estimate the price of a acommodity, the demand and supply of such commodity has to be considered and compared. So, STF assumes the vibrant and boomimng demand that Bitcoin has experience for the past 10 years, to continue to be consistent as its STF marches up, and that is not provable.
+
+4. STF fail for other Alternative cryptocurrencies or altcoins: Only few cryptocurrencies are worth more than Bitcoin, but Bitcoin is worth more than even more cryptocurrencies, if the STF ratio is a good model, while is it not working for the other altcoins. Even PlanB confirmed it in a [twitter post](ttps://twitter.com/100trillionUSD/status/1140643574410862594?s=20 "PlanB twitter post") that STF did not work for Litecoin. 
+
+5. Some metals have low STF ratio but are worth more than gold: The argument made with the STF ratio is that higher STF depicts higher price. But metals such as Platinum and Palladium have STF of 0.5 to 1 compare to gold, and these are often priced per kg more than gold.
